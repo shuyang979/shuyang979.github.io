@@ -28,8 +28,8 @@ body {
 }
 
 #player {
-    width: 15vw;
-    height: 15vw;
+    width: 20vw;
+    height: 20vw;
     position: absolute;
     bottom: 10vh;
     left: 50%;
@@ -80,18 +80,18 @@ body {
 }
 
 .enemy-normal {
-    width: 12vw;
-    height: 12vw;
+    width: 20vw;
+    height: 20vw;
 }
 
 .enemy-elite {
-    width: 15vw;
-    height: 15vw;
+    width: 25;
+    height: 25vw;
 }
 
 .enemy-boss {
-    width: 20vw;
-    height: 20vw;
+    width: 35vw;
+    height: 35vw;
 }
 
 .enemy-health {
