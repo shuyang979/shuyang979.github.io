@@ -28,8 +28,8 @@ body {
 }
 
 #player {
-    width: 10vw;
-    height: 10vw;
+    width: 15vw;
+    height: 15vw;
     position: absolute;
     bottom: 10vh;
     left: 50%;
@@ -66,8 +66,8 @@ body {
 }
 
 .bullet {
-    width: 1vw;
-    height: 2vw;
+    width: 1.5vw;
+    height: 3vw;
     background-color: #FFFF00;
     position: absolute;
 }
@@ -80,18 +80,18 @@ body {
 }
 
 .enemy-normal {
-    width: 8vw;
-    height: 8vw;
+    width: 12vw;
+    height: 12vw;
 }
 
 .enemy-elite {
-    width: 10vw;
-    height: 10vw;
+    width: 15vw;
+    height: 15vw;
 }
 
 .enemy-boss {
-    width: 12vw;
-    height: 12vw;
+    width: 20vw;
+    height: 20vw;
 }
 
 .enemy-health {
